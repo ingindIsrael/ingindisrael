@@ -1,16 +1,20 @@
-### Hi there 👋
+# Israel Vasquez
 
-<!--
-**ingindIsrael/ingindisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud-focused Full-Stack Developer
 
-Here are some ideas to get you started:
+I build and maintain cloud-deployed web applications with an emphasis on infrastructure, automation, and reliability.
+Hands-on experience supporting applications running on AWS and Azure, with containerized workloads and infrastructure as code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- Cloud platforms: AWS, Azure
+- Infrastructure as Code: Terraform
+- Containers & orchestration: Docker, Kubernetes
+- CI/CD: GitHub Actions
+- Full-stack development: React, Next.js, Django
+- Backend & data: Python, REST APIs, PostgreSQL
+
+## Focus areas
+- Deploying and managing cloud infrastructure
+- Containerizing applications and running them in Kubernetes
+- Automating builds, tests, and deployments
+- Supporting production systems and improving reliability
